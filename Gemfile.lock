@@ -1,11 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    wongi-engine (0.3.5)
 
 PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  wongi-engine
 
 BUNDLED WITH
    2.2.16
